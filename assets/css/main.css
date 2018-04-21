@@ -1591,4 +1591,10 @@
 
 		body.is-loading #footer {
 			opacity: 0;
-		}
+        }
+        
+        .buyshit {
+            float: left;
+            padding: 1em;
+            width: 33%;
+        }
